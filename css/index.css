@@ -1,24 +1,24 @@
-html{
+html {
     font-size: 16px;
+    /* 1rem */
     font-family: var(--tipografia);
-
 }
 
 
-/*Estilos de banner*/
+/* Estilos del banner */
 
-.sct-banner{
+.sct-banner {
     width: 100%;
 }
 
-.sct-banner h1{
+.sct-banner h1 {
     font-size: 2rem;
     font-weight: bold;
     margin-bottom: 10px;
     text-align: center;
 }
 
-.sct-banner p{
+.sct-banner p {
     color: var(--negro-texto);
     font-size: 1rem;
     margin: 0 auto;
@@ -26,10 +26,10 @@ html{
     width: 75%;
 }
 
-.sct-banner .img-container{
-    width: 98%;
+.sct-banner .img-container {
+    width: 100%;
 }
 
-.sct-banner .img-container img{
+.sct-banner .img-container img {
     width: 100%;
 }
